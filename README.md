@@ -9,3 +9,4 @@
 * TypeScript
 * NodeJS
 * MongoDB & Docker
+* Express JS
